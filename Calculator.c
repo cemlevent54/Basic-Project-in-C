@@ -44,14 +44,14 @@ int main() {
 	char op;
 	
 	printf("addition => +\n");
-    printf("substraction => -\n");
-    printf("multipication => * \n");
-    printf("division => / \n");
+	printf("substraction => -\n");
+	printf("multipication => * \n");
+	printf("division => / \n");
 	printf("power => ^\n");
-    printf("modul => ?\n");
-    printf("factorial => !\n");
-    printf("logarithm base 10 => 1\n");
-    printf("logarithm base e => 2\n");
+        printf("modul => ?\n");
+        printf("factorial => !\n");
+        printf("logarithm base 10 => 1\n");
+        printf("logarithm base e => 2\n");
 	printf("square root => 3\n");
 	printf("absolute => 4\n");
 	printf("percentage => y\n");
